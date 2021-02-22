@@ -3,6 +3,16 @@
 Currently (2021 February), Pangle has official Advanced Bidding with Mopub, Ironsource, and MAX, and all of our partners have opened Advanced Bidding to publishers.
 However, Pangle still only supports the whitelisted Advanced Bidding. Thus, if you want to use Pangle's Advanced Bidding, please reach out to the Pangle BD to help you apply for the Advanced Bidding whitelist.
 
+
+## Setup on Pangle
+
+## Setup on Mopub
+
+## Setup on Ironsource
+
+## Setup on MAX
+
+
 ## Environment requirement
 - IOS 9.X and higher;
 - Xcode 12 and higher;

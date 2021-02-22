@@ -1,3 +1,5 @@
+A Quick Start for Pangle's Advanced Bidding
+
 # 1. Introduction
 
 Currently (2021 February), Pangle has official Advanced Bidding with Mopub, Ironsource, and MAX, and all of our partners have opened Advanced Bidding to publishers.

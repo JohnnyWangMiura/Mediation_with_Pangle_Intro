@@ -1,4 +1,7 @@
-# 1. Import Pangle SDK
+# 1. Introduction
+
+Currently (2021 February), Pangle has official Advanced Bidding with Mopub, Ironsource, and MAX, and all of our partners have opened Advanced Bidding to publishers.
+However, Pangle still only supports the whitelisted Advanced Bidding. Thus, if you want to use Pangle's Advanced Bidding, please reach out to the Pangle BD to help you apply for the Advanced Bidding whitelist.
 
 ## Environment requirement
 - IOS 9.X and higher;
@@ -30,7 +33,7 @@ Download and unzip the SDK framework from Pangle Platform directly, and import t
 - `BUAdSDK.bundle`
 - `BUVAAuxiliary.framework`
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/destination.png" />
+<img src="" />
 
 
 
@@ -39,7 +42,6 @@ Download and unzip the SDK framework from Pangle Platform directly, and import t
 
 Please make sure that `Copy Bundle Resource` contains `BUAdSDK.bundle`.
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/bundle.png" />
 
 
 
@@ -53,7 +55,6 @@ Add the parameter `-objc` to `Other Linker Flags` in build settings, and the SDK
 
 ##### Detailed Steps:
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/permission.png" />
 
 
 
@@ -87,12 +88,10 @@ Project needs to find Link Binary With Libraries in `TARGETS` - > `Build Phases`
 
 ##### Detailed Steps:
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/library.png"/>
 
 
 #### Add language configuration
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/language.png"/>
 
 
 
